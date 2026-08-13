@@ -1,4 +1,4 @@
-<h1 align="center">🚀 2026 MT5/MT4 Indicators Collection 📄</h1>
+<h1 align="center">🚀 MT5/MT4 Indicators Collection 📄</h1>
 
 <p align="center">
 Accurated set of trading indicators for <a href="https://www.metatrader4.com/en/download">MetaTrader 4</a> and <a href="https://www.metatrader5.com/en/download">MetaTrader 5</a> optimized for performance, precision, and profit.
@@ -8,7 +8,7 @@ Accurated set of trading indicators for <a href="https://www.metatrader4.com/en/
 
 ## 🔧 What’s Inside
 
-This repo contains a collection of MT5/MT4 indicators designed for advanced forex and CFD trading. These indicators leverage strategies like:
+This repo contains a collection of MT5/MT4 indicators designed for advanced Forex and CFD trading. These indicators leverage strategies like:
 
 - ✅ Tick movement analysis  
 - ✅ Last digit & candle pattern recognition  
@@ -42,7 +42,7 @@ Want premium indicators or 1-on-1 guidance? Reach out:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
 - 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivkingnato@gmail.com  
+- 📧 Email: monarchtrades@outlook.com  
 
 ---
 
@@ -54,7 +54,7 @@ There are over 40+ premium indicators and strategies available plus lifetime acc
 - Contact me for pricing:  
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
 - 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivkingnato@gmail.com  
+- 📧 Email: monarchtrades@outlook.com  
 
 ---
 
@@ -103,4 +103,4 @@ If you’ve benefited from these indicators, consider supporting by donating, co
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
 - 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivkingnato@gmail.com  
+- 📧 Email: monarchtrades@outlook.com 
