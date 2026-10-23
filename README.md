@@ -45,9 +45,10 @@ They’re built for traders who want high win rates with controlled risk. Martin
 
 Want premium indicators or 1-on-1 guidance? Reach out:
 
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
 - 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: monarchtrades@outlook.com  
+- 📧 Email: derivbots@yahoo.com
+ 
 
 ---
 
@@ -57,9 +58,10 @@ There are over 40+ premium indicators and strategies available plus lifetime acc
 
 - Combo deal includes all indicators + future updates or buy individually  
 - Contact me for pricing:  
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
 - 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: monarchtrades@outlook.com  
+- 📧 Email: derivbots@yahoo.com
+  
 
 ---
 
@@ -106,12 +108,24 @@ This project is licensed under the MIT License.
 
 If you’ve benefited from these indicators, consider supporting by donating, contact me below for donation details:
 
-- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
 - 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: monarchtrades@outlook.com
+- 📧 Email: derivbots@yahoo.com
 
-- <p align="center">
-  <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+
+<p align="center">
+  <a href="https://wa.me/Deriv_Pro"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
+
+---
+
+<div align="center">
+
+**Built and maintained by Deriv Pro**
+
+
+<sub>Trade smart. Risk less. Stay consistent.</sub>
+
+</div>
 
