@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/Deriv_Pro"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
